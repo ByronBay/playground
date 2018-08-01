@@ -1,6 +1,5 @@
 # opencvplayground
-Accumulation of snippets and projects around opencv
-
+Accumulation of snippets, notebooks and virtual-envs around opencv and ai
 ## First run
 
 * git clone https://github.com/ByronBay/opencvplayground.git
